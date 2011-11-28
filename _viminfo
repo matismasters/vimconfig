@@ -1,0 +1,433 @@
+# Vim 7.3 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=latin1
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/migration
+
+# Último SustituciónPatrón de búsqueda:
+~MSle0&old
+
+# Última cadena de sustitución:
+$
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:w
+:split c:\Sites\jdjonkies\app\
+:find schema.rb
+:q
+:split outline_files.rb
+:NERDTree help
+:help NERDTree
+:w c:\Sites\jdjonkies\app\admin\outline_files.rb
+:w outline_files.rb
+:Q
+:help windows
+:find 
+:Rake
+:help Rails
+:find outline_files.rb
+:Rgenerate model outline_file document_file_name:string document_content_type:string document_file_size:integer document_updated_at:datetime outline_id:integer upload_notes:string
+:Rgenerate model 
+:q!
+:Rails run bundle install
+:Rbundle install
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/migration
+?/rake db
+?/rake db:migrate
+??shell
+?/bundle
+? \<this\>
+?/vespertino
+?/ignore
+? old
+? thee
+?/errroor
+??er
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+@div
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Registros:
+"0	CHAR	0
+	[]
+""1	CHAR	0
+	from
+"2	LINE	0
+	    f.inputs "dd"
+"3	LINE	0
+	      f.
+"4	LINE	0
+	  
+"5	LINE	0
+	  end
+"6	LINE	0
+	  form do |f|
+	    f.input :
+"7	CHAR	0
+	School
+"8	CHAR	0
+	School
+"9	CHAR	0
+	ASC
+"-	CHAR	0
+	[]
+
+# Marcas en el archivo:
+'0  2  5  c:\sites\jdjonkies\app\admin\outlines.rb
+'1  1  0  c:\sites\jdjonkies\Gemfile
+'2  29  18  ~\_vimrc
+'3  29  18  C:\Windows\system32\_vimrc
+'4  41  11  ~\_vimrc
+'5  1  0  C:\Windows\system32\.netrwhist
+'6  385  76  C:\Program Files (x86)\Vim\vim73\doc\usr_22.txt
+
+# Lista de saltos (el más reciente va primero):
+-'  2  5  c:\sites\jdjonkies\app\admin\outlines.rb
+-'  2  0  c:\sites\jdjonkies\app\admin\schools.rb
+-'  1  31  c:\sites\jdjonkies\app\admin\schools.rb
+-'  2  28  c:\sites\jdjonkies\app\models\outline_file.rb
+-'  7  21  c:\sites\jdjonkies\app\models\outline.rb
+-'  10  2  c:\sites\jdjonkies\app\models\outline.rb
+-'  1  0  c:\sites\jdjonkies\app\models\outline.rb
+-'  6  74  c:\sites\jdjonkies\app\models\outline.rb
+-'  3  20  c:\sites\jdjonkies\app\models\outline_file.rb
+-'  7  8  C:\sites\jdjonkies\db\migrate\20111127141738_create_outline_files.rb
+-'  13  0  C:\sites\jdjonkies\db\migrate\20111127141738_create_outline_files.rb
+-'  1  0  c:\sites\jdjonkies\app\controllers\site_controller.rb
+-'  1  3  C:\Windows\system32\NERD_tree_1
+-'  1  0  c:\sites\jdjonkies\Gemfile
+-'  55  52  C:\Program Files (x86)\Vim\vimfiles\doc\project.txt
+-'  1  0  C:\Program Files (x86)\Vim\vimfiles\doc\project.txt
+-'  1  68  C:\Windows\system32\new
+-'  35  0  C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+-'  46  0  C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+-'  20  24  C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+-'  19  3  C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+-'  1  0  C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+-'  29  18  ~\_vimrc
+-'  1  0  ~\_vimrc
+-'  29  18  C:\Windows\system32\_vimrc
+-'  1  0  C:\Windows\system32\_gvimrc
+-'  1  0  C:\Windows\system32\_vimrc
+-'  38  0  C:\Windows\system32\_vimrc
+-'  41  11  ~\_vimrc
+-'  1  0  C:\Windows\system32\.netrwhist
+-'  385  76  C:\Program Files (x86)\Vim\vim73\doc\usr_22.txt
+-'  65  0  C:\Program Files (x86)\Vim\vim73\doc\help.txt
+-'  1  0  C:\Windows\system32\config.ru
+-'  1  0  C:\Program Files (x86)\Vim\vim73\doc\
+-'  166  14  C:\Program Files (x86)\Vim\vim73\doc\windows.txt
+-'  1  0  C:\Program Files (x86)\Vim\vim73\doc\windows.txt
+-'  885  16  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  817  17  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  816  21  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  811  41  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  810  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  594  55  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  957  15  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  802  8  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  671  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  586  30  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  590  37  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  591  32  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  592  62  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  593  59  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  630  8  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  555  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  561  18  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  559  26  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  558  14  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  562  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  564  5  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  543  41  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  523  48  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  513  15  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  511  7  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  512  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  524  9  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  508  5  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  1  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  494  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  969  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  487  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  491  24  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  336  53  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  317  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  337  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  61  14  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  1  0  C:\Program Files (x86)\Vim\vim73\README.txt
+-'  166  14  C:\Program Files (x86)\Vim\vim73\doc\windows.txt
+-'  1  0  C:\Program Files (x86)\Vim\vim73\doc\windows.txt
+-'  885  16  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  817  17  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  816  21  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  811  41  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  810  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  594  55  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  957  15  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  802  8  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  671  0  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  586  30  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  590  37  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  591  32  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  592  62  C:\Program Files (x86)\Vim\vim73\tutor\tutor
+-'  55  52  C:\Program Files (x86)\Vim\vimfiles\doc\project.txt
+-'  1  0  C:\Program Files (x86)\Vim\vimfiles\doc\project.txt
+-'  1  68  C:\Windows\system32\new
+-'  35  0  C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+-'  46  0  C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+-'  20  24  C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+-'  19  3  C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+-'  1  0  C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+-'  29  18  ~\_vimrc
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> c:\sites\jdjonkies\Gemfile
+	"	15	0
+	^	31	15
+	.	31	15
+	+	31	15
+
+> C:\Windows\system32\NERD_tree_1
+	"	34	4
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> C:\Program Files (x86)\Vim\vimfiles\doc\rails.txt
+	"	229	0
+
+> c:\sites\jdjonkies\app\controllers\site_controller.rb
+	"	1	0
+
+> C:\sites\jdjonkies\db\migrate\20111127141738_create_outline_files.rb
+	"	7	8
+
+> C:\Program Files (x86)\Vim\vim73\doc\windows.txt
+	"	323	26
+
+> c:\sites\jdjonkies\app\models\outline.rb
+	"	7	21
+	^	6	79
+	.	6	79
+	+	6	25
+	+	10	20
+	+	10	0
+	+	10	0
+	+	10	43
+	+	10	12
+	+	10	22
+	+	10	0
+	+	10	28
+	+	6	47
+	+	10	3
+	+	10	16
+	+	10	0
+	+	10	0
+	+	10	48
+	+	6	75
+	+	10	0
+	+	6	73
+	+	10	2
+	+	9	5
+	+	8	15
+	+	6	20
+	+	8	8
+	+	10	2
+	+	8	12
+	+	6	79
+
+> c:\sites\jdjonkies\app\models\outline_file.rb
+	"	2	28
+	^	2	29
+	.	2	29
+	+	3	21
+	+	2	29
+
+> C:\Program Files (x86)\Vim\vim73\doc\intro.txt
+	"	440	14
+
+> c:\sites\jdjonkies\app\admin\schools.rb
+	"	2	0
+	.	2	0
+	+	1	31
+	+	2	5
+	+	2	0
+
+> C:\Windows\system32\outline_files.rb
+	"	1	0
+
+> c:\sites\jdjonkies\app\admin\outlines.rb
+	"	2	5
+	^	2	6
+	.	2	5
+	+	10	4
+	+	5	29
+	+	8	23
+	+	10	13
+	+	5	0
+	+	10	0
+	+	2	5
+
+> c:\sites\jdjonkies\db\schema.rb
+	"	87	0
+
+> C:\Windows\system32\help
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vimfiles\doc\surround.txt
+	"	113	24
+
+> C:\Windows\system32\new
+	"	1	15
+	^	1	17
+	.	1	15
+	+	1	16
+	+	3	11
+	+	1	15
+
+> C:\Windows\system32\help surround
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vimfiles\doc\project.txt
+	"	55	52
+
+> C:\Windows\system32\testing
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vim73\doc\mlang.txt
+	"	115	18
+
+> ~\_vimrc
+	"	29	18
+	^	29	19
+	.	29	18
+	+	58	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	8	35
+	+	9	34
+	+	10	29
+	+	19	13
+	+	57	31
+	+	29	18
+
+> C:\Windows\system32\_vimrc
+	"	29	18
+	^	29	19
+	.	29	18
+	+	29	15
+	+	50	0
+	+	29	18
+
+> C:\Windows\system32\_gvimrc
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vim73\doc\usr_toc.txt
+	"	16	0
+
+> C:\Windows\system32\usr_08.txt
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vim73\doc\help.txt
+	"	65	0
+
+> C:\Program Files (x86)\Vim\vim73\doc\usr_06.txt
+	"	254	0
+
+> C:\Program Files (x86)\Vim\vim73\doc\usr_08.txt
+	"	159	0
+
+> C:\Program Files (x86)\Vim\vim73\doc\usr_22.txt
+	"	385	76
+
+> C:\Windows\system32\config.ru
+	"	1	0
+
+> C:\Program Files (x86)\Vim\vim73\doc\vi_diff.txt
+	"	147	60
+
+> C:\Program Files (x86)\Vim\vim73\README.txt
+	"	61	14
+
+> C:\Program Files (x86)\Vim\vim73\tutor\tutor
+	"	965	27
+	^	802	9
+	.	802	8
+	+	132	46
+	+	136	0
+	+	135	41
+	+	134	41
+	+	179	60
+	+	203	44
+	+	222	46
+	+	246	46
+	+	249	30
+	+	294	17
+	+	315	0
+	+	316	0
+	+	336	0
+	+	347	46
+	+	386	0
+	+	386	0
+	+	386	0
+	+	385	0
+	+	386	0
+	+	382	0
+	+	386	0
+	+	383	0
+	+	386	0
+	+	384	0
+	+	403	59
+	+	428	54
+	+	453	70
+	+	477	24
+	+	524	0
+	+	564	0
+	+	562	0
+	+	36	0
+	+	671	0
+	+	726	32
+	+	724	34
+	+	753	50
+	+	776	35
+	+	802	8
